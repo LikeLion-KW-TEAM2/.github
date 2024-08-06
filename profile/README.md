@@ -2,7 +2,7 @@
 
 ## Idea
 
-- 돈두댓 - Don't do that
+- [돈두댓 - Don't do that](https://dont-do-that.vercel.app/)
 - 나쁜 습관 개선을 위한 NOT TO DO 
 - 습관 개선과 함께 성장하는 아바타
 
